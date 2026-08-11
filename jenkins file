@@ -1,4 +1,4 @@
-pipe line{
+pipeine{
 agent any
 stages{
 stage('compile'){
